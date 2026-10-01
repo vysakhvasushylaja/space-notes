@@ -1,0 +1,13 @@
+ISS (ZARYA) catalog #25544 epoch 2026-10-01 02:39:00 UTC
+2026-10-01 13:48:18 UTC rises (AOS) elevation 10 deg, distance 1518 km
+2026-10-01 13:51:43 UTC highest point elevation 84 deg, distance 432 km
+2026-10-01 13:55:08 UTC sets (LOS) elevation 10 deg, distance 1514 km
+2026-10-01 15:25:11 UTC rises (AOS) elevation 10 deg, distance 1517 km
+2026-10-01 15:28:35 UTC highest point elevation 75 deg, distance 441 km
+2026-10-01 15:31:58 UTC sets (LOS) elevation 10 deg, distance 1508 km
+2026-10-01 17:02:18 UTC rises (AOS) elevation 10 deg, distance 1512 km
+2026-10-01 17:05:06 UTC highest point elevation 24 deg, distance 922 km
+2026-10-01 17:07:52 UTC sets (LOS) elevation 10 deg, distance 1501 km
+2026-10-02 11:24:46 UTC rises (AOS) elevation 10 deg, distance 1513 km
+2026-10-02 11:27:53 UTC highest point elevation 34 deg, distance 716 km
+2026-10-02 11:31:01 UTC sets (LOS) elevation 10 deg, distance 1518 km
